@@ -28,3 +28,10 @@ lung_segmentation_unet/
 ## 📌 Notes
 - The current code uses **random image/mask simulation** to mimic lung segmentation.
 - Replace the `generate_dummy_lung_data` function with code to load actual `.tif` X-ray and mask files when using real datasets.
+
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE) © 2024 Pujah Balasubramaniam.
+
+
